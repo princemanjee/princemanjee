@@ -1,7 +1,7 @@
 ## Hi there 👋
 # P. R. Manjee
 
-**Senior Technology Consultant** · AI Adoption · Digital Transformation · Workplace Modernization
+**Senior Technology Consultant** · Workplace Modernization through AI Adoption and Digital Transformation
 
 Thirty years of building technology that sticks, from electrons to executive strategy. Available for senior consulting engagements and IT leadership roles with mid-market and enterprise organizations.
 
