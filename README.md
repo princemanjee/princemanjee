@@ -3,7 +3,7 @@
 
 **Senior Technology Consultant** · Workplace Modernization through AI Adoption and Digital Transformation
 
-Thirty years of building technology that sticks, from electrons to executive strategy. Available for senior consulting engagements and IT leadership roles with mid-market and enterprise organizations.
+Thirty years of building technology that sticks, from electrons to executive strategy. Available for senior consulting engagements and IT leadership roles with SMB, mid-market, and enterprise organizations.
 
 I help leadership teams figure out which AI investments will actually move their business and which are theater. Then I help their people adopt those tools without throwing the existing org chart in the trash. Pragmatic, not utopian. Outcomes first.
 
@@ -183,17 +183,4 @@ For consulting engagements, leadership roles, or to discuss a project:
 ---
 
 *Updated May 2026.*
-<!--
-**princemanjee/princemanjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
